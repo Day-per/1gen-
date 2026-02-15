@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+pillow
+gspread
+google-api-python-client
+google-auth
+python-dateutil
